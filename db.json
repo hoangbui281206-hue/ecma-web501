@@ -1,0 +1,51 @@
+{
+  "tours": [
+    {
+      "id": 2,
+      "name": "Hạ Long - Cát Bà 2N1D",
+      "destination": "Hạ Long",
+      "duration": "2 ngày 1 đêm",
+      "price": 1800000,
+      "image": "https://picsum.photos/400/300?random=2",
+      "description": "Du thuyền vịnh Hạ Long - Kỳ quan thiên nhiên thế giới",
+      "available": 20
+    },
+    {
+      "id": 3,
+      "name": "Đà Lạt 4N3D",
+      "destination": "Đà Lạt",
+      "duration": "4 ngày 3 đêm",
+      "price": 3200000,
+      "image": "https://picsum.photos/400/300?random=3",
+      "description": "Thành phố ngàn hoa",
+      "available": 10
+    }
+  ],
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Sapa",
+      "icon": "🏔️",
+      "description": "Thiên đường núi rừng Tây Bắc"
+    },
+    {
+      "id": 2,
+      "name": "Hạ Long",
+      "icon": "🌊",
+      "description": "Kỳ quan thiên nhiên thế giới"
+    },
+    {
+      "id": 3,
+      "name": "Đà Lạt",
+      "icon": "🌺",
+      "description": "Thành phố ngàn hoa"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123456"
+    }
+  ]
+}
